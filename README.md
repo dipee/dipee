@@ -45,6 +45,5 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 ### 🔥 &nbsp; My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dipee&layout=compact&theme=vision-friendly-white)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dipee&layout=compact&theme=vision-friendly-white)](https://github.com/dipee/github-readme-stats)
-
+[![Dipendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=dipee)](https://github.com/dipee/github-readme-stats)
 ---
